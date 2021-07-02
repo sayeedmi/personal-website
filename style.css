@@ -1,0 +1,121 @@
+*{
+  font-family: "Roboto", sans-serif;
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+#header{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+    height: 60rem;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin: 2rem;
+    padding: 3rem;
+}
+.half-width img{
+    width: 100%;
+
+}
+#top-left-div{
+    margin: 8rem 0 0 6rem;
+}
+h2{
+    font-size: 40px;
+    font-weight: normal;
+}
+.header-pink{
+    font-weight: bold;
+    font-size: 60px;
+    color: #df4ec7;
+    margin-bottom: 60px;
+}
+.headerPara{
+    color: #727272;
+    margin-bottom: 50px;
+    line-height: 30px;
+}
+.button{
+    background-color: palevioletred;
+    padding: 15px 40px;
+    border-radius: 10px;
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+#biography-area{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    height: 60rem;
+}
+#biography-div{
+    margin-top: 15rem;
+}
+#biography-div h2{
+    margin-bottom: 30px;
+}
+#biography-area img{
+    padding: 3rem;
+}
+#latest-work-area{
+    height: 55rem;
+    margin-left: 220px;
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+.latest-work-header{
+    font-size: 35px;
+    margin-bottom: 6rem;
+    
+}
+.work-image{
+    width: 25%;
+    margin-left: 50px;
+}
+.footer-area{
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    height: 50rem;
+}
+#footer-header{
+    font-size: 50px;
+    margin-bottom: 6rem;
+    text-align: center;
+}
+#founder-div{
+    text-align: center;
+    margin-bottom: 3rem;
+}
+#bruce{
+    margin-bottom: 10px;
+}
+#qoute-div{
+    text-align: center;
+    margin-bottom: 6rem;
+}
+#email-div{
+    position: absolute;
+    right: 30%;
+    background-color: palevioletred;
+    width: 40%;
+    padding: 3rem;
+    text-align: center;
+    border-radius: 10px;
+    
+}
+#message-para{
+    color: white;
+    margin-bottom: 25px;
+}
+#email{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+footer{
+    color: slategray;
+    text-align: center;
+    margin: 25px;
+}
